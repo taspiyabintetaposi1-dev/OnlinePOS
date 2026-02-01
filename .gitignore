@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+
+# Logs
+*.log
+
+# EF migrations snapshot (optional)
+*.db
+
+# Node (future if you use React)
+node_modules/
+
+# OS
+Thumbs.db
+.DS_Store
